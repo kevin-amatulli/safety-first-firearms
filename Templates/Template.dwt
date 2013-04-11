@@ -21,11 +21,11 @@
 				</h1>
 				<ul>
 					<li><a href="../index.html">Homepage</a></li>
-					<li>About The Company</li>
+					<li><a href="../About-The -Company/about-company.html">About The Company</a></li>
 					</ul>
 				<p>Products</p>
 				<ul>
-					<li>Beretta 92FS(9MM)</li>
+					<li><a href="../Products/beretta.html">Beretta 92FS(9MM)</a></li>
 					<li>Sig Sauer P229</li>
 					<li>Heckler &amp; Koch P30L (9MM)</li>
 					<li>Walther PPQ M2</li>
